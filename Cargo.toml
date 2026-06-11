@@ -1,0 +1,9 @@
+[package]
+name = "fundamental-group"
+version = "0.1.0"
+description = "A Rust library for Fundamental Group"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/fundamental-group"
+edition = "2021"
+
+[dependencies]
